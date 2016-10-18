@@ -1,5 +1,5 @@
 import random
-from random import randint
+from random import randint#This code is terrible
 
 die_1 = random.randint(1,7)
 die_2 = random.randint(1,7)
