@@ -7,10 +7,10 @@ black_die = die_1
 white_die = die_2
 total_roll = (die_1 + die_2)
 user_currency = "100"
-
+Start = startgame[0].lower()
 start_game = input("Would you like to start the game? ")
 
-while start_game == "Yes" or "yes" or "Yeah" or "yeah" or "Y" or "y" or "start" or "Start":
+while start_game Start == y:
     roll = input("Roll dice. ")
     if roll == (""):
         print(total_roll)
