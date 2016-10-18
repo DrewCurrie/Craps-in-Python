@@ -6,7 +6,7 @@ die_2 = random.randint(1,7)
 black_die = die_1
 white_die = die_2
 total_roll = (die_1 + die_2)
-user_currency = "100"
+moneys = "100"
 
 start_game = input("Would you like to start the game? ")
 
